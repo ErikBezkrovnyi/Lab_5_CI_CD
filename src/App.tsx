@@ -6,7 +6,7 @@ function App() {
       <div className="content-block">
         <h1>Vite + React</h1>
         <p>
-          WELCOME!
+          Let`s start learning React + TypeScript
         </p>
       </div>
     </div>
